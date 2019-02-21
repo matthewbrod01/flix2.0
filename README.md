@@ -20,7 +20,7 @@
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+<img src="flix2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
