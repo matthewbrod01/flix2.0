@@ -2,7 +2,26 @@
 
 **Flix** is an app that allows users to browse movies from the [The Movie Database API](https://developers.themoviedb.org/).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
+<img src="flix2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+### Notes
+Describe any challenges encountered while building the app.
+- When passing data, is there anyway to cache and store the data before passing it, so that we minimize network request calls?
 
 ---
 
