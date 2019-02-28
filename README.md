@@ -15,7 +15,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-<img src="flix2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+<img src="flix2.0-demo-part2.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
